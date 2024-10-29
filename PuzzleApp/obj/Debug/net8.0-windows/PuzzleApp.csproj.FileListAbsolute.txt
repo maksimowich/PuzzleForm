@@ -1,0 +1,16 @@
+C:\Users\Alexander\source\repos\PuzzleApp\PuzzleApp\bin\Debug\net8.0-windows\PuzzleApp.exe
+C:\Users\Alexander\source\repos\PuzzleApp\PuzzleApp\bin\Debug\net8.0-windows\PuzzleApp.deps.json
+C:\Users\Alexander\source\repos\PuzzleApp\PuzzleApp\bin\Debug\net8.0-windows\PuzzleApp.runtimeconfig.json
+C:\Users\Alexander\source\repos\PuzzleApp\PuzzleApp\bin\Debug\net8.0-windows\PuzzleApp.dll
+C:\Users\Alexander\source\repos\PuzzleApp\PuzzleApp\bin\Debug\net8.0-windows\PuzzleApp.pdb
+C:\Users\Alexander\source\repos\PuzzleApp\PuzzleApp\obj\Debug\net8.0-windows\PuzzleApp.PuzzleForm.resources
+C:\Users\Alexander\source\repos\PuzzleApp\PuzzleApp\obj\Debug\net8.0-windows\PuzzleApp.csproj.GenerateResource.cache
+C:\Users\Alexander\source\repos\PuzzleApp\PuzzleApp\obj\Debug\net8.0-windows\PuzzleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\source\repos\PuzzleApp\PuzzleApp\obj\Debug\net8.0-windows\PuzzleApp.AssemblyInfoInputs.cache
+C:\Users\Alexander\source\repos\PuzzleApp\PuzzleApp\obj\Debug\net8.0-windows\PuzzleApp.AssemblyInfo.cs
+C:\Users\Alexander\source\repos\PuzzleApp\PuzzleApp\obj\Debug\net8.0-windows\PuzzleApp.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\source\repos\PuzzleApp\PuzzleApp\obj\Debug\net8.0-windows\PuzzleApp.dll
+C:\Users\Alexander\source\repos\PuzzleApp\PuzzleApp\obj\Debug\net8.0-windows\refint\PuzzleApp.dll
+C:\Users\Alexander\source\repos\PuzzleApp\PuzzleApp\obj\Debug\net8.0-windows\PuzzleApp.pdb
+C:\Users\Alexander\source\repos\PuzzleApp\PuzzleApp\obj\Debug\net8.0-windows\PuzzleApp.genruntimeconfig.cache
+C:\Users\Alexander\source\repos\PuzzleApp\PuzzleApp\obj\Debug\net8.0-windows\ref\PuzzleApp.dll

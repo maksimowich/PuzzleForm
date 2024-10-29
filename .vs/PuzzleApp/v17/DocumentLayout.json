@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alexander\\source\\repos\\PuzzleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD866F47-4121-4ECB-9D90-BA03046C9E79}|PuzzleApp\\PuzzleApp.csproj|c:\\users\\alexander\\source\\repos\\puzzleapp\\puzzleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD866F47-4121-4ECB-9D90-BA03046C9E79}|PuzzleApp\\PuzzleApp.csproj|solutionrelative:puzzleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD866F47-4121-4ECB-9D90-BA03046C9E79}|PuzzleApp\\PuzzleApp.csproj|c:\\users\\alexander\\source\\repos\\puzzleapp\\puzzleapp\\puzzleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD866F47-4121-4ECB-9D90-BA03046C9E79}|PuzzleApp\\PuzzleApp.csproj|solutionrelative:puzzleapp\\puzzleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD866F47-4121-4ECB-9D90-BA03046C9E79}|PuzzleApp\\PuzzleApp.csproj|C:\\Users\\Alexander\\source\\repos\\PuzzleApp\\puzzleapp\\puzzleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD866F47-4121-4ECB-9D90-BA03046C9E79}|PuzzleApp\\PuzzleApp.csproj|solutionrelative:puzzleapp\\puzzleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PuzzleForm.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\PuzzleApp\\PuzzleApp\\PuzzleForm.cs",
+              "RelativeDocumentMoniker": "PuzzleApp\\PuzzleForm.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\PuzzleApp\\PuzzleApp\\PuzzleForm.cs",
+              "RelativeToolTip": "PuzzleApp\\PuzzleForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:16:01.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PuzzleForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\PuzzleApp\\PuzzleApp\\PuzzleForm.cs",
+              "RelativeDocumentMoniker": "PuzzleApp\\PuzzleForm.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\PuzzleApp\\PuzzleApp\\PuzzleForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]*",
+              "RelativeToolTip": "PuzzleApp\\PuzzleForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:14:54.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\PuzzleApp\\PuzzleApp\\Program.cs",
+              "RelativeDocumentMoniker": "PuzzleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\PuzzleApp\\PuzzleApp\\Program.cs",
+              "RelativeToolTip": "PuzzleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:12:05.025Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
